@@ -7,7 +7,7 @@ const EyesOnMe = require('./components/EyesOnMe');
 ReactDOM.render(
   <div>
     <Keypad />
-    <EyesOnMe />
+    <EyesOnMe/>
   </div>,
   document.getElementById('main')
 );
